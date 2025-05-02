@@ -1,5 +1,5 @@
-package Trabalho2semestre;
-import Trabalho2semestre.InOut;
+package Sistema_de_Controle_de_Estoque;
+import Sistema_de_Controle_de_Estoque.InOut;
 
 import java.util.Scanner;
 
