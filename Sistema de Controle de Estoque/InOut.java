@@ -1,4 +1,4 @@
-package Trabalho2semestre;
+package Sistema_de_Controle_de_Estoque;
 import javax.swing.JOptionPane;
 
 /**
